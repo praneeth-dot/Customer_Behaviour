@@ -1,0 +1,53 @@
+## Business Problem Statement
+
+A retail company wants to understand how customers shop so that it can increase sales and keep customers satisfied.
+
+The company wants to find out how customer age, product type, discounts, reviews, seasons, payment methods, and shopping channels affect buying decisions.
+
+The main goal is to use customer data to find useful patterns and help the company make better decisions.
+
+### Business Objectives
+
+* Understand customer buying habits.
+* Find which products customers prefer.
+* Compare online and offline shopping behavior.
+* Check how discounts affect sales.
+* Understand what makes customers buy again.
+* Identify important customer groups.
+* Find useful sales and customer trends.
+* Help improve marketing and product decisions.
+
+### Main Business Question
+
+**How can the company use customer shopping data to understand customer behavior, improve sales, and increase customer loyalty?**
+
+### Project Deliverables
+
+1. **Python – Data Preparation**
+
+   * Clean the customer data.
+   * Remove duplicate and incorrect data.
+   * Prepare the data for analysis.
+
+2. **SQL – Data Analysis**
+
+   * Store and organize the data.
+   * Analyze customer and purchase information.
+   * Find useful business insights.
+
+3. **Power BI – Dashboard**
+
+   * Create an interactive dashboard.
+   * Show important sales and customer KPIs.
+   * Display customer and product trends.
+
+4. **Report & Presentation**
+
+   * Explain the analysis and findings.
+   * Highlight important insights.
+   * Give simple business recommendations.
+
+5. **GitHub**
+
+   * Upload Python code, SQL queries, and Power BI files.
+   * Keep the project files organized.
